@@ -1,6 +1,6 @@
 
-<h1 align="center">
-Este é um menu feito com React.js, totalmente responsiva e com animações. 
+ <h1 align="center">
+Este é um menu feito com React.js, totalmente responsivo e com animações. 
 </h1>
 </br>
   
