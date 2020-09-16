@@ -5,22 +5,13 @@ import './styles.css';
 const Header = () => {
 
 const [classOn, setClassOn] = useState(false);
-
-const menuResponsive = () => {
-      if (!classOn) {
-        setClassOn(true);
-      }
-       else {
-        setClassOn(false);
-       }
-  }
-
+      
   return (
     <header>
     <div className="container">
       <img className="logo-cyan" src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" alt="logo Cyan"/>
 
-      <div className = { classOn ? 'menu-section on' : 'menu-section'} onClick={menuResponsive}>
+      <div className = { classOn ? 'menu-section on' : 'menu-section'} onClick={() => setClassOn(!classOn)}>
            <div className="menu-toggle">
               <div className="one"></div>
               <div className="two"></div>
