@@ -11,7 +11,7 @@ Este é um menu feito com React.js, totalmente responsivo e com animações.
 
 <h2> Click na imagem para ter acesso ao video de apresentação do menu.</h2>
 
-[![HEADER MENU](https://i9.ytimg.com/vi/3JB6aXsLVgY/mq2.jpg?sqp=CKTQ_foF&rs=AOn4CLAWfTAwgh_LCZOPPBIlwQ0oSNtRcQ)](https://youtu.be/3JB6aXsLVgY)
+<a href="https://youtu.be/3JB6aXsLVgY"> <img src="https://scontent.fthe8-1.fna.fbcdn.net/v/t1.0-9/119784196_2809114189317620_4467928206172827173_o.jpg?_nc_cat=111&_nc_sid=0debeb&_nc_ohc=XDDxUcYXyjIAX-IiA0U&_nc_ht=scontent.fthe8-1.fna&oh=8f65a38477a11465c34a372340cb9485&oe=5F88BF21"/> <a/>
 
 ## :memo: Licença
 
